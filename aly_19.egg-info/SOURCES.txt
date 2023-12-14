@@ -1,0 +1,8 @@
+setup.py
+aly_19/__init__.py
+aly_19/game_tebak_angka.py
+aly_19/konvrensi_berat.py
+aly_19.egg-info/PKG-INFO
+aly_19.egg-info/SOURCES.txt
+aly_19.egg-info/dependency_links.txt
+aly_19.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+paket_js_13/__init__.py
+paket_js_13/game_tebak_angka.py
+paket_js_13/konvrensi_berat.py
+paket_js_13.egg-info/PKG-INFO
+paket_js_13.egg-info/SOURCES.txt
+paket_js_13.egg-info/dependency_links.txt
+paket_js_13.egg-info/top_level.txt
